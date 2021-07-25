@@ -1,2 +1,2 @@
 # ContadorParesAssembly
-Código em Assembly MIPS que imprime na tela o número de elementos pares em um vetor desordenado
+Código em Assembly MIPS que imprime na tela o número de elementos pares em um vetor desordenado. Apesar do algoritmo para resolver tal problema ser simples, a implementação de laços e variáveis com registradores e resgistradores especiais na sintaxe assembly foi interessante de ser realizada, ao longo do código é possível observar como se implementa conceitos alto nível de um pseudocódigo em uma linguagem de baixo nível.
